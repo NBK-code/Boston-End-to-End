@@ -53,5 +53,10 @@ To commit with an inline message
 ```
 git commit -m "Message"
 ```
+To push commits to GitHub main branch
+```
+git push origin main
+```
+
 ## Other Resources
 1. [Git Atlassian Tutorial](https://www.atlassian.com/git/tutorials)
