@@ -49,5 +49,9 @@ Check status of files to be committed
 ```
 git status
 ```
+To commit with an inline message 
+```
+git commit -m "Message"
+```
 ## Other Resources
 1. [Git Atlassian Tutorial](https://www.atlassian.com/git/tutorials)
