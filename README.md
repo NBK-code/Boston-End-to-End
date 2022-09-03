@@ -1,5 +1,8 @@
 # Boston Housing Prices End-to-End Model Development and Deployment
 
+## Model Deployment
+Model deployed to [https://boston-housing-price-pred.herokuapp.com/](https://boston-housing-price-pred.herokuapp.com/)
+
 ## Command prompt commands
 
 Create virtual environment
